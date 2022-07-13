@@ -1,2 +1,3 @@
-# .github
-Standard stuff for the entire team.
+# Overview
+
+:zap::zap: Lightening fast code reviews :zap::zap:
