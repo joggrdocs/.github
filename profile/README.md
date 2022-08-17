@@ -1,4 +1,4 @@
-# :robot: :review: Your Code Review Copilot
+# :zap: Your Code Review Copilot :zap:
 
 - :globe_with_meridians: **Preview Environments** - test your application in every Pull Request
 - :speech_balloon: **Review User Interface** - leave comments directly on the UI during Pull Requests
