@@ -6,3 +6,5 @@
 - :heart: **AI Coach** - Coach your team via AI generated feedback
 - :pager: **Nudging** - Nudge reviewers and reviewees when certain actions needed on a Pull Request
 - :bar_chart: **Analytics** - analyze your teams performance 
+
+Visit us at [codereviews.ai](https://codereviews.ai)!
