@@ -1,5 +1,5 @@
-# :zap: CodeReviews.ai :zap:
+# 🏃 Joggr 🏃
 
-AI-Driven Code Review platform empowers engineering teams to spend less time reviewing and more time writing code.
+Create How To Documentation that syncs with your codebase and never gets out of date.
 
-Visit us at [codereviews.ai](https://codereviews.ai)!
+Visit us at [joggr.io](https://joggr.io)!
