@@ -1,5 +1,5 @@
 # 🏃 Joggr 🏃
 
-Create How To Documentation that syncs with your codebase and never gets out of date.
+Documentation that just works.
 
-Visit us at [joggr.io](https://joggr.io)!
+Come jog with us at [joggr.io](https://joggr.io)!
