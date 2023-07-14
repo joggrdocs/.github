@@ -47,6 +47,6 @@ Also include details of the environment this PR was developed in (language/platf
 ### Checklist
 
 - [ ] I have added documentation for new/changed functionality in this PR or in Slab
-- [ ] I have updated or added public documentation [Docs Site Repo](https://github.com/codereviewsai/codereviewsai.github.io)
+- [ ] I have updated or added public documentation
 - [ ] All active GitHub checks for tests, formatting, and security are passing
 - [ ] The correct base branch is being used, if not `main`
