@@ -32,7 +32,7 @@ Joggr empowers developers to take complete control of their documentation. Joggr
 Stop wasting time creating, maintaining, and searching for documentation. Spend more time coding with Joggr.
 
 <a href="https://www.joggr.io/closed-beta-waitlist?utm_source=github&utm_medium=org-readme&utm_campaign=static-docs" alt="Join the Waitlist">
-  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/join-waitlist-badge.svg" />
+  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/join-waitlist-badge.svg" width="200px" />
 </a>
 
 <h2>
