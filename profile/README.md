@@ -15,7 +15,7 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 <!-- @joggr:warning:end -->
 <div>
     <p align="center">
-        <img src="https://storage.googleapis.com/joggr-public-assets/github/github-banner.png" align="center" width="80%" />
+        <img src="https://storage.googleapis.com/joggr-public-assets/github/github-banner.png" align="center" />
     </p>
     <hr>
 </div>
