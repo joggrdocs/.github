@@ -12,10 +12,6 @@ Provide details that support your chosen implementation, including: breaking cha
 If the UI is being changed, please provide screenshots.
 -->
 
-> Provide a detailed description
-
-
-
 ### References
 
 <!--
