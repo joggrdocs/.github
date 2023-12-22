@@ -15,7 +15,7 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 <!-- @joggr:warning:end -->
 # Security Policy
 
-If you detect a security issue with this project please contact our security team at <security@joggr.io>.
+If you detect a security issue with this project please report it using this form [Report Vulnerability](https://forms.gle/GXQixHDabyoxK8Df7) or you can contact our security team directly at [security@joggr.io](mailto:security@joggr.io).
 
 <!-- @joggr:editLink(b0a5234c-feee-4101-bc63-5ed630407508):start -->
 ---
