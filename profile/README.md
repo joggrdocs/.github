@@ -67,8 +67,12 @@ We believe in Open Source, we believe building in public (as much as possible) i
 
 * 🏃 [marathon](https://github.com/joggrdocs/marathon)
 * ⏫ [tempo](https://github.com/joggrdocs/tempo)
+* △ [fastify-prisma](https://github.com/joggrdocs/fastify-prisma)
 
-**NOTE:** These are currently under heavy development during our **closed beta** so be forewarned. We will not go to a major version (aka release ready) until end of this year.
+<details>
+  <summary>⚠️ WARNING ⚠️</summary>
+  Our core libraries (marathon & tempo) are currently under heavy development during our <strong>closed beta</strong> so be forewarned. We will not go to a major version (aka release ready) until end of 2024 at the earliest.
+</details>
 
 <!-- @joggr:editLink(898ad417-8bc8-4299-b2b5-94b0981c3398):start -->
 ---
