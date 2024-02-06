@@ -1,3 +1,18 @@
+<!--@@joggrdoc@@-->
+<!-- @joggr:version(v1):end -->
+<!-- @joggr:warning:start -->
+<!-- 
+  _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
+ | | | | | |   \ \      / /    / \    |  _ \  | \ | | |_ _| | \ | |  / ___|   | | | | | |
+ | | | | | |    \ \ /\ / /    / _ \   | |_) | |  \| |  | |  |  \| | | |  _    | | | | | |
+ |_| |_| |_|     \ V  V /    / ___ \  |  _ <  | |\  |  | |  | |\  | | |_| |   |_| |_| |_|
+ (_) (_) (_)      \_/\_/    /_/   \_\ |_| \_\ |_| \_| |___| |_| \_|  \____|   (_) (_) (_)
+                                                              
+This document is managed by Joggr. Editing this document could break Joggr's core features, i.e. our 
+ability to auto-maintain this document. Please use the Joggr editor to edit this document 
+(link at bottom of the page).
+-->
+<!-- @joggr:warning:end -->
 <!-- 
 By submitting a PR to this repository, you agree to the terms within the [Code of Conduct](/CODE-OF-CONDUCT.md). Please see the [contributing guidelines](/CONTRIBUTING.md) for how to create and submit a high-quality PR for this repo.
 -->
@@ -48,3 +63,9 @@ Include any links supporting this change such as a:
 If there are no references, simply delete this section or ignore it (n/a works...)
 -->
 * _Add a reference_
+<!-- @joggr:editLink(1b269901-110c-4fc9-beda-bc23ec1c3452):start -->
+---
+<a href="https://app.joggr.io/app/documents/1b269901-110c-4fc9-beda-bc23ec1c3452/edit" alt="Edit doc on Joggr">
+  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/edit-document-badge.svg" />
+</a>
+<!-- @joggr:editLink(1b269901-110c-4fc9-beda-bc23ec1c3452):end -->
