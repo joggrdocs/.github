@@ -76,7 +76,6 @@ If you are unsure whether an incident is a violation, or whether the space where
 ## Attribution
 
 This Code of Conduct is adapted from the \[Contributor Covenant]\[homepage], version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
-
 <!-- @joggr:editLink(e7aa3399-b858-4a3b-be09-c6a4c683af76):start -->
 ---
 <a href="https://app.joggr.io/app/documents/e7aa3399-b858-4a3b-be09-c6a4c683af76/edit" alt="Edit doc on Joggr">
