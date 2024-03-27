@@ -5,7 +5,7 @@
     <hr>
 </div>
 
-> GitHub tools, templates, and more for the Joggr Team!
+> GitHub tools, templates, and more for the Joggr OSS Team!
 
 <br />
 
