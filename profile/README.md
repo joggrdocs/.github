@@ -24,9 +24,8 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 
 Joggr empowers developers to take complete control of their documentation. Joggr allows engineers to:
 
-- :rocket: Automatically generating new documentation
-- :arrows_counterclockwise: Keep existing documentation up-to-date with every code change
-- :mag: Discover documentation by asking a question and getting an answer
+- :rocket: Keep existing documentation up-to-date with every code change
+- :arrows_counterclockwise: Create Pull Requests from Joggr & review your documentation like you do code.
 - :woman_technologist: Directly integrated into PRs and your IDE
 
 Stop wasting time creating, maintaining, and searching for documentation. Spend more time coding with Joggr.
