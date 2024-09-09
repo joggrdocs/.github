@@ -38,9 +38,9 @@ Stop wasting time creating, maintaining, and searching for documentation. Spend 
   ⚡ Who are We
 </h2>
 
-When Zac & Seth (who are brothers) sat down in 2022 and discussed their biggest pain points at work, they discovered that the root of most of the issues they faced, was that their teams didn't have the knowledge & documentation they needed to do their jobs.
+When Zac & Seth (who are brothers) sat down in 2023 and discussed their biggest pain points at work, they discovered that the root of most of the issues they faced, was that their teams didn't have the knowledge & documentation they needed to do their jobs, which lead to teams constantly distracting one another to get help.
 
-At Joggr, we are building tools to make sure every developer in the world, always has up-to-date documentation at their finger tips.
+Our mission is to create the best internal docs experience for developers. Just as great public documentation supports users, we believe internal docs should have the same level of quality and attention.
 
 <img src="https://storage.googleapis.com/joggr-public-assets/github/seth-zac-long-cropped.jpg" width="140" />
 
