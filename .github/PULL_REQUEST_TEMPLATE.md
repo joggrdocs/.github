@@ -17,20 +17,5 @@
 
 - [ ] I've labeled the type, i.e. `type: feature` or `type: bugfix`
 - [ ] I've labeled the semver, i.e. `semver: major`, `semver: minor` or `semver: patch`
-- [ ] This change adds tests for new/changed/fixed functionality
-- [ ] This change doesn't not descrease the test coverage
-- [ ] I have added documentation for new/changed functionality in this PR
-- [ ] All active GitHub checks for tests, formatting, and security are passing
+- [ ] This change adds tests for new/changed/fixed functionality & doesn't decrease the test coverage
 - [ ] The correct base branch is being used, if not `main`
-
-### 🧪 Review & Test (optional)
-
-<!-- Remove if NOT needed. Add how to review and test the changes, such as pull down locally or view preview -->
-
-* 
-
-### 🔗 References (optional)
-
-<!-- Remove if NOT needed. Include any links supporting this change (i.e. Stackoverflow, GitHub Issue/PR, documentation link) -->
-
-* 
