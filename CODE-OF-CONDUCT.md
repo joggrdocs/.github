@@ -1,18 +1,3 @@
-<!--@@joggrdoc@@-->
-<!-- @joggr:version(v1):end -->
-<!-- @joggr:warning:start -->
-<!-- 
-  _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
- | | | | | |   \ \      / /    / \    |  _ \  | \ | | |_ _| | \ | |  / ___|   | | | | | |
- | | | | | |    \ \ /\ / /    / _ \   | |_) | |  \| |  | |  |  \| | | |  _    | | | | | |
- |_| |_| |_|     \ V  V /    / ___ \  |  _ <  | |\  |  | |  | |\  | | |_| |   |_| |_| |_|
- (_) (_) (_)      \_/\_/    /_/   \_\ |_| \_\ |_| \_| |___| |_| \_|  \____|   (_) (_) (_)
-                                                              
-This document is managed by Joggr. Editing this document could break Joggr's core features, i.e. our 
-ability to auto-maintain this document. Please use the Joggr editor to edit this document 
-(link at bottom of the page).
--->
-<!-- @joggr:warning:end -->
 # Contributor Code of Conduct
 
 Our company values guide us in our day-to-day interactions and decision-making. Our open source projects are no exception. Trust, respect, collaboration and transparency are core values we believe should live and breathe within our projects. Our community welcomes participants from around the world with different experiences, unique perspectives, and great ideas to share.
@@ -76,9 +61,3 @@ If you are unsure whether an incident is a violation, or whether the space where
 ## Attribution
 
 This Code of Conduct is adapted from the \[Contributor Covenant]\[homepage], version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
-<!-- @joggr:editLink(e7aa3399-b858-4a3b-be09-c6a4c683af76):start -->
----
-<a href="https://app.joggr.io/app/documents/e7aa3399-b858-4a3b-be09-c6a4c683af76/edit" alt="Edit doc on Joggr">
-  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/edit-document-badge.svg" />
-</a>
-<!-- @joggr:editLink(e7aa3399-b858-4a3b-be09-c6a4c683af76):end -->
