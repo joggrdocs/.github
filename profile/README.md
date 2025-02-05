@@ -5,15 +5,20 @@
     <hr>
 </div>
 
-## 🚀 Overview
+## At Joggr, we give a 🦆 about docs.
 
-Joggr empowers developers to take complete control of their documentation. Joggr allows engineers to:
+Docs start fresh and useful, but give them a sprint or two and they’re outdated, misplaced, or flat-out wrong. They live in wikis no one checks, fall out of sync with the code, and end up like an unmerged PR—forgotten and full of conflicts.  
 
-- :rocket: Keep existing documentation up-to-date with every code change
-- :arrows_counterclockwise: Create Pull Requests from Joggr & Review your documentation like you do code.
-- :woman_technologist: Directly integrated into PRs and your IDE
+The core problem? Docs platforms aren’t designed with us (devs) in mind.  
 
-Stop wasting time creating, maintaining, and searching for documentation. Spend more time coding with Joggr.
+### Joggr fixes that.  
+It’s an internal docs platform built for devs who’d rather ship features than format wikis.  
+
+#### With Joggr, you get:  
+⚡ **CLI-first** – Write docs like you write code.  
+🔄 **Auto-updating** – No more stale docs.  
+🛠 **IDE-integrated** – Docs where you work, not buried in a wiki.  
+📂 **All-in-one** – READMEs, collaborative docs, and diagrams in one platform.  
 
 <a href="https://www.joggr.io/closed-beta-waitlist?utm_source=github&utm_medium=org-readme&utm_campaign=static-docs" alt="Join the Waitlist">
   <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/join-waitlist-badge.svg" width="200px" />
