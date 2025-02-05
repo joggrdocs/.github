@@ -1,6 +1,9 @@
 <div>
     <p align="center">
-        <img src="https://storage.googleapis.com/joggr-public-assets/github/github-banner.png" align="center" />
+        <a href="https://joggr.io" style="background-color: #4A90E2; color: #FFFFFF; padding: 12px 24px; font-size: 16px; font-weight: bold; text-transform: uppercase; border-radius: 5px; text- 
+            decoration: none; display: inline-block; transition: background-color 0.3s ease;" onmouseover="this.style.backgroundColor='#357ABD'" onmouseout="this.style.backgroundColor='#4A90E2'">
+            Sign Up
+        </a>
     </p>
     <hr>
 </div>
