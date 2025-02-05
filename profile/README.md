@@ -60,4 +60,4 @@ We believe in Open Source, we believe building in public (as much as possible) i
 
 * ⏫ [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
 * 🏃 [temple of templates](https://github.com/joggrdocs/temple-of-templates) - A library of battle tested dev templates.
-* * △ [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
+* △ [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
