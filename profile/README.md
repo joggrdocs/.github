@@ -60,9 +60,4 @@ We believe in Open Source, we believe building in public (as much as possible) i
 
 * △ [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
 * ⏫ [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
-* 🏃 [marathon](https://github.com/joggrdocs/marathon) - Standard documentation templates, with a programmatic interface.
-
-<details>
-  <summary>⚠️ WARNING ⚠️</summary>
-  Our core libraries (marathon & tempo) are currently under heavy development during our <strong>closed beta</strong> so be forewarned. We will not go to a major version (aka release ready) until end of 2024 at the earliest.
-</details>
+* 🏃 
