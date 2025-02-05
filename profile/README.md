@@ -7,9 +7,9 @@
 
 ## At Joggr, we give a 🦆 about docs.
 
-Docs start fresh and useful, but give them a sprint or two and they’re outdated, misplaced, or flat-out wrong. They live in wikis no one checks, fall out of sync with the code, and end up like an unmerged PR—forgotten and full of conflicts.  
+Docs start fresh and useful, but give them a sprint or two and they’re **outdated, misplaced, or flat-out wrong**. They live in **wikis no one checks**, fall **out of sync** with the code, and end up like an **unmerged PR—forgotten and full of conflicts**.  
 
-The core problem? Docs platforms aren’t designed with us (devs) in mind.  
+The core problem? **Docs platforms aren’t designed for developers.**   
 
 ### Joggr fixes that.  
 It’s an internal docs platform built for devs who’d rather ship features than format wikis.  
@@ -24,17 +24,17 @@ It’s an internal docs platform built for devs who’d rather ship features tha
   ⚡ Who are We
 </h2>
 
-Ever found a doc that actually solved your problem—without asking in Slack?
+**Ever found a doc that actually solved your problem—without asking in Slack?**  
 
-Yeah, neither have we. Docs are either missing, impossible to find, or outdated.
+Yeah, **neither have we**. Docs are either **missing, impossible to find, or outdated**.  
 
-It's the 2020s—this shouldn’t be a problem. But every docs tool we tried treated documentation like a wiki, not something built for developers. So we asked:
+It’s the **2020s**, yet every docs tool still treats documentation like a **wiki**, not something **built for developers**. So we asked:  
 
-- Why can’t we write and format docs in a CLI, like code?
-- Why can’t we find and edit docs in our IDE, where we work?
-- Why don’t docs auto-update, like our dependencies?
-  
-Turns out, the entire documentation space is stuck in the past. So we built Joggr—a docs platform made for developers, not just documentation. 🚀🚀  
+- **Why can’t we write docs in a CLI, like code?**  
+- **Why can’t we find and edit them in our IDE, where we work?**  
+- **Why don’t docs auto-update, like dependencies?**  
+
+Turns out, the **entire documentation space is stuck in the past**. So we—**Seth (CEO) and Zac (CTO), two brothers and builders**—created **Joggr**: a docs platform **made for developers** 🚀🚀  
 
 <img src="https://storage.googleapis.com/joggr-public-assets/github/seth-zac-long-cropped.jpg" width="140" />
 
