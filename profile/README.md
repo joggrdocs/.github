@@ -23,17 +23,21 @@ It’s an internal docs platform built for devs who’d rather ship features tha
 🛠 **IDE-integrated** – Docs where you work, not buried in a wiki.  
 📂 **All-in-one** – READMEs, collaborative docs, and diagrams in one platform.  
 
-<a href="https://www.joggr.io/closed-beta-waitlist?utm_source=github&utm_medium=org-readme&utm_campaign=static-docs" alt="Join the Waitlist">
-  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/join-waitlist-badge.svg" width="200px" />
-</a>
-
 <h2>
   ⚡ Who are We
 </h2>
 
-When Zac & Seth (who are brothers) sat down in 2023 and discussed their biggest pain points at work, they discovered that the root of most of the issues they faced, was that their teams didn't have the knowledge & documentation they needed to do their jobs, which lead to teams constantly distracting one another to get help.
+Ever found a doc that actually solved your problem—without asking in Slack?
 
-Our mission is to create the best internal docs experience for developers. Just as great public documentation supports users, we believe internal docs should have the same level of quality and attention.
+Yeah, neither have we. Docs are either missing, impossible to find, or outdated.
+
+It's the 2020s—this shouldn’t be a problem. But every docs tool we tried treated documentation like a wiki, not something built for developers. So we asked:
+
+- Why can’t we write and format docs in a CLI, like code?
+- Why can’t we find and edit docs in our IDE, where we work?
+- Why don’t docs auto-update, like our dependencies?
+  
+Turns out, the entire documentation space is stuck in the past. So we built Joggr—a docs platform made for developers, not just documentation. 🚀🚀  
 
 <img src="https://storage.googleapis.com/joggr-public-assets/github/seth-zac-long-cropped.jpg" width="140" />
 
