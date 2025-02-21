@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-        <img src="https://storage.googleapis.com/joggr-public-assets/github/github-banner.png" align="center" />
+        <img src="https://assets.joggr.io/joggr-public-assets/github/github-banner.png" align="center" />
     </p>
     <hr>
 </div>
@@ -36,7 +36,7 @@ It’s the **2020s**, yet every docs tool still treats documentation like a **wi
 
 Turns out, the **entire documentation space is stuck in the past**. So we—**Seth (CEO) and Zac (CTO), two brothers and builders**—created **Joggr**: a docs platform **made for developers** 🚀🚀  
 
-<img src="https://storage.googleapis.com/joggr-public-assets/github/seth-zac-long-cropped.jpg" width="140" />
+<img src="https://assets.joggr.io/github/seth-zac-long-cropped.jpg" width="140" />
 
 Seth (left) and Zac (right)
 
