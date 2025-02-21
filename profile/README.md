@@ -1,6 +1,6 @@
 <div>
     <p align="center">
-        <img src="https://assets.joggr.io/joggr-public-assets/github/github-banner.png" align="center" />
+        <img src="https://assets.joggr.io/github/github-banner.png" align="center" />
     </p>
     <hr>
 </div>
