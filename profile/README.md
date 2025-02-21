@@ -1,18 +1,3 @@
-<!--@@joggrdoc@@-->
-<!-- @joggr:version(v1):end -->
-<!-- @joggr:warning:start -->
-<!-- 
-  _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
- | | | | | |   \ \      / /    / \    |  _ \  | \ | | |_ _| | \ | |  / ___|   | | | | | |
- | | | | | |    \ \ /\ / /    / _ \   | |_) | |  \| |  | |  |  \| | | |  _    | | | | | |
- |_| |_| |_|     \ V  V /    / ___ \  |  _ <  | |\  |  | |  | |\  | | |_| |   |_| |_| |_|
- (_) (_) (_)      \_/\_/    /_/   \_\ |_| \_\ |_| \_| |___| |_| \_|  \____|   (_) (_) (_)
-                                                              
-This document is managed by Joggr. Editing this document could break Joggr's core features, i.e. our 
-ability to auto-maintain this document. Please use the Joggr editor to edit this document 
-(link at bottom of the page).
--->
-<!-- @joggr:warning:end -->
 <div>
     <p align="center">
         <img src="https://storage.googleapis.com/joggr-public-assets/github/github-banner.png" align="center" />
@@ -20,27 +5,36 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
     <hr>
 </div>
 
-## 🚀 Overview
+## At Joggr, we give a 🦆 about docs.
 
-Joggr empowers developers to take complete control of their documentation. Joggr allows engineers to:
+Docs start fresh and useful, but give them a sprint or two and they’re **outdated, misplaced, or flat-out wrong**. They live in **wikis no one checks**, fall **out of sync** with the code, and end up like an **unmerged PR—forgotten and full of conflicts**.  
 
-- :rocket: Keep existing documentation up-to-date with every code change
-- :arrows_counterclockwise: Create Pull Requests from Joggr & Review your documentation like you do code.
-- :woman_technologist: Directly integrated into PRs and your IDE
+The core problem? **Docs platforms aren’t designed for developers.**   
 
-Stop wasting time creating, maintaining, and searching for documentation. Spend more time coding with Joggr.
+### Joggr fixes that.  
+It’s an internal docs platform built for devs who’d rather ship features than format wikis.  
 
-<a href="https://www.joggr.io/closed-beta-waitlist?utm_source=github&utm_medium=org-readme&utm_campaign=static-docs" alt="Join the Waitlist">
-  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/join-waitlist-badge.svg" width="200px" />
-</a>
+#### With Joggr, you get:  
+⚡ **CLI-first** – Write docs like you write code.  
+🔄 **Auto-updating** – No more stale docs.  
+🛠 **IDE-integrated** – Docs where you work, not buried in a wiki.  
+📂 **All-in-one** – READMEs, collaborative docs, and diagrams in one platform.  
 
 <h2>
   ⚡ Who are We
 </h2>
 
-When Zac & Seth (who are brothers) sat down in 2023 and discussed their biggest pain points at work, they discovered that the root of most of the issues they faced, was that their teams didn't have the knowledge & documentation they needed to do their jobs, which lead to teams constantly distracting one another to get help.
+**Ever found a doc that actually solved your problem—without asking in Slack?**  
 
-Our mission is to create the best internal docs experience for developers. Just as great public documentation supports users, we believe internal docs should have the same level of quality and attention.
+Yeah, **neither have we**. Docs are either **missing, impossible to find, or outdated**.  
+
+It’s the **2020s**, yet every docs tool still treats documentation like a **wiki**, not something **built for developers**. So we asked:  
+
+- **Why can’t we write docs in a CLI, like code?**  
+- **Why can’t we find and edit them in our IDE, where we work?**  
+- **Why don’t docs auto-update, like dependencies?**  
+
+Turns out, the **entire documentation space is stuck in the past**. So we—**Seth (CEO) and Zac (CTO), two brothers and builders**—created **Joggr**: a docs platform **made for developers** 🚀🚀  
 
 <img src="https://storage.googleapis.com/joggr-public-assets/github/seth-zac-long-cropped.jpg" width="140" />
 
@@ -64,18 +58,6 @@ Seth (left) and Zac (right)
 
 We believe in Open Source, we believe building in public (as much as possible) is key to success, we want to give back to the developers that make our company what it is. See our projects below.
 
-* △ [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
 * ⏫ [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
-* 🏃 [marathon](https://github.com/joggrdocs/marathon) - Standard documentation templates, with a programmatic interface.
-
-<details>
-  <summary>⚠️ WARNING ⚠️</summary>
-  Our core libraries (marathon & tempo) are currently under heavy development during our <strong>closed beta</strong> so be forewarned. We will not go to a major version (aka release ready) until end of 2024 at the earliest.
-</details>
-
-<!-- @joggr:editLink(898ad417-8bc8-4299-b2b5-94b0981c3398):start -->
----
-<a href="https://app.joggr.io/app/documents/898ad417-8bc8-4299-b2b5-94b0981c3398/edit" alt="Edit on Joggr">
-  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/edit-document-badge.svg" />
-</a>
-<!-- @joggr:editLink(898ad417-8bc8-4299-b2b5-94b0981c3398):end -->
+* 🏃 [temple of templates](https://github.com/joggrdocs/temple-of-templates) - A library of battle tested dev templates.
+* △ [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
