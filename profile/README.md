@@ -17,10 +17,10 @@ It’s an internal docs platform built for devs who’d rather ship features tha
 
 ### With Joggr, you get:
 
-🔲&nbsp;&nbsp;**CLI-first** – Write docs like you write code.  
-🔄&nbsp;&nbsp;**Auto-updating** – No more stale docs.  
+⚡️&nbsp;&nbsp;**CLI-first** – Write docs like you write code.  
+🌲&nbsp;&nbsp;**Auto-updating** – No more stale docs (always evergreen!).  
 🛠&nbsp;&nbsp;**IDE-integrated** – Docs where you work, not buried in a wiki.  
-📂&nbsp;&nbsp;**All-in-one** – READMEs, collaborative docs, and diagrams in one platform.  
+🔷&nbsp;&nbsp;**All-in-one** – READMEs, collaborative docs, and diagrams in one platform.  
 
 ## Who are We
 
@@ -59,6 +59,6 @@ Seth (left) and Zac (right)
 
 We believe in Open Source, we believe building in public (as much as possible) is key to success, we want to give back to the developers that make our company what it is. See our projects below.
 
-* ⏫ [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
-* 🏃 [temple of templates](https://github.com/joggrdocs/temple-of-templates) - A library of battle tested dev templates.
-* △ [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
+* 🟦 [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
+* 📄 [temple of templates](https://github.com/joggrdocs/temple-of-templates) - A library of battle tested dev templates.
+* 🔼 [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
