@@ -5,24 +5,24 @@
     <hr>
 </div>
 
-## At Joggr, we give a 🦆 about docs.
+# At Joggr, we give a 🦆 about docs.
 
 Docs start fresh and useful, but give them a sprint or two and they’re **outdated, misplaced, or flat-out wrong**. They live in **wikis no one checks**, fall **out of sync** with the code, and end up like an **unmerged PR—forgotten and full of conflicts**.  
 
 The core problem? **Docs platforms aren’t designed for developers.**   
 
-### Joggr fixes that.  
+## Joggr fixes that.  
+
 It’s an internal docs platform built for devs who’d rather ship features than format wikis.  
 
-#### With Joggr, you get:  
-⚡ **CLI-first** – Write docs like you write code.  
-🔄 **Auto-updating** – No more stale docs.  
-🛠 **IDE-integrated** – Docs where you work, not buried in a wiki.  
-📂 **All-in-one** – READMEs, collaborative docs, and diagrams in one platform.  
+### With Joggr, you get:
 
-<h2>
-  ⚡ Who are We
-</h2>
+🔲&nbsp;&nbsp;**CLI-first** – Write docs like you write code.  
+🔄&nbsp;&nbsp;**Auto-updating** – No more stale docs.  
+🛠&nbsp;&nbsp;**IDE-integrated** – Docs where you work, not buried in a wiki.  
+📂&nbsp;&nbsp;**All-in-one** – READMEs, collaborative docs, and diagrams in one platform.  
+
+## Who are We
 
 **Ever found a doc that actually solved your problem—without asking in Slack?**  
 
@@ -45,6 +45,7 @@ Seth (left) and Zac (right)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
