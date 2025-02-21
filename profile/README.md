@@ -60,5 +60,5 @@ Seth (left) and Zac (right)
 We believe in Open Source, we believe building in public (as much as possible) is key to success, we want to give back to the developers that make our company what it is. See our projects below.
 
 * 🟦 [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
-* 📄 [temple of templates](https://github.com/joggrdocs/temple-of-templates) - A library of battle tested dev templates.
+* 📄 [temple of templates](https://github.com/joggrdocs/temple-of-templates) - A library of battle tested documentation templates in markdown.
 * 🔼 [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
