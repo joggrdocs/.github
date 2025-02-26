@@ -55,10 +55,10 @@ Seth (left) and Zac (right)
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-## 🏗️ Our Open Source Projects
+## 🏗️ Open Source
 
 We believe in Open Source, we believe building in public (as much as possible) is key to success, we want to give back to the developers that make our company what it is. See our projects below.
 
 * 🟦 [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
-* 📄 [temple of templates](https://github.com/joggrdocs/temple-of-templates) - A library of battle tested documentation templates in markdown.
+* 🏰 [dungeons & docs](https://github.com/joggrdocs/dungeons-and-docs) - A library of battle tested documentation templates in markdown.
 * 🔼 [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
