@@ -62,3 +62,20 @@ We believe in Open Source, we believe building in public (as much as possible) i
 * 🟦 [tempo](https://github.com/joggrdocs/tempo) - Programmatically create Markdown documents.
 * 🏰 [dungeons & docs](https://github.com/joggrdocs/dungeons-and-docs) - A library of battle tested documentation templates in markdown.
 * 🔼 [fastify-prisma](https://github.com/joggrdocs/fastify-prisma) - Fastify Prisma plugin to share the same PrismaClient across your entire server.
+
+<!-- Signup footer -->
+<br>
+<hr>
+<h2 align="center">
+   ⚡️ Want to sign up for Joggr?
+</h2>
+<p align="center">
+    You can sign up for free at our website:  <a href="https://www.joggr.io/signup?utm_source=github&utm_medium=org-readme&utm_campaign=static-docs">https://joggr.io</a><br>
+    (or click button below 👇)
+</p>
+<p align="center">
+  <a href="https://www.joggr.io/signup?utm_source=github&utm_medium=org-readme&utm_campaign=static-docs">
+    <img src="https://assets.joggr.io/github/badges/signup-badge.svg" width="250px" alt="Sign up" />
+  </a>
+</p>
+<br>
