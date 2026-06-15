@@ -1,4 +1,8 @@
-<div>
+> [!CAUTION]
+> **Joggr is shut down.** This repository is archived and unmaintained.
+> Do not depend on it for production use.
+
+---<div>
     <p align="center">
         <img src="/.github/assets/logo.png" align="center" width="500" />
     </p>
